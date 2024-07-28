@@ -1,0 +1,15 @@
+.kid{
+    border: 1px solid blue;
+    height: auto;
+    width: auto;
+}
+#apple{
+    border: 1px solid green;
+    height: 100px;
+    width: 100px;
+}
+#ball{
+    border: 1px solid rgb(255, 130, 116);
+    height: 400px;
+    width: 300px;
+}
